@@ -1,0 +1,11 @@
+name = JS Offline
+description = Offline.js is a library to automatically alert your users when they've lost internet connectivity, like Gmail.
+package = Hugsolution
+core = 7.x
+dependencies[] = jquery_update
+
+; Information added by drupal.org packaging script on 2013-09-03
+version = "7.x-1.x-dev"
+core = "7.x"
+datestamp = "1378213533"
+
